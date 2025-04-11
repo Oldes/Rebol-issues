@@ -1,3 +1,5 @@
+[![rebol-issues](https://github.com/user-attachments/assets/c512ed4e-10fe-41e0-8d49-62f11ee7676a)](https://github.com/Oldes/Rebol-issues)
+
 ### Welcome
 Welcome to the Rebol 3 issue tracker, supporting the
 development of Rebol 3. We have now completed the migration from our previous
